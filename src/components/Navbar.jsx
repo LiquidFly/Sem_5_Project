@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 function Navbar() {
   return (
     <nav className="bg-white border-gray-200 dark:bg-gray-900">
+      THis Is A  NAVBAR
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <Link to="/">GharDekho🏠</Link>
         <button
