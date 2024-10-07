@@ -16,6 +16,9 @@ function SignUpPage() {
     setName(event.target.value);
   }
 
+
+  
+
   function handleEmailChange(event) {
     setEmail(event.target.value);
   }
